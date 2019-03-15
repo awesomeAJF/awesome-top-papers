@@ -1,9 +1,9 @@
 # Intro
 # 目录
-[Data Augmentation](#Data Augmentation)
-  - [Few-shot/one-shot Learning](#Few-shoot/one-shot Learning)
-# Data Augmentation
-## Few-shot/one-shot learning
+[Data Augmentation](#DataAugmentation)
+  - [Few-shot/one-shot Learning](#Few-shoot/one-shotLearning)
+# DataAugmentation
+## Few-shot/one-shotLearning
   - [x] [ICCV 2017] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](https://github.com/facebookresearch/low-shot-shrink-hallucinate)] Low-shot Visual Recognition by Shrinking and Hallucinating Features
   - [x] [CVPR 2018] [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Low-Shot_Learning_From_CVPR_2018_paper.pdf)] Low-Shot Learning from Imaginary Data
   - [x] [NIPS 2018] [[paper](https://papers.nips.cc/paper/7376-low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks.pdf)] Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks
