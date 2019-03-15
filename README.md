@@ -1,6 +1,6 @@
 # Intro
 # 目录
-[Data Augmentation](#DataAugmentation)
+[Data Augmentation](#Data Augmentation)
   - [Few-shot/one-shot Learning](#Few-shoot/one-shot Learning)
 # Data Augmentation
 ## Few-shot/one-shot learning
