@@ -3,9 +3,15 @@
 [Data Augmentation](#DataAugmentation)
   - [Low-shot Learning](#Low-shot_Learning)
 # Coming soon
-- [] [ICLR 2019] A Closer Look at Few-shot Classification
-- [] [ICLR 2019] LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING
-- [] [ICLR 2019] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
+- [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] [[code](https://github.com/wyharveychen/CloserLookFewShot)] A Closer Look at Few-shot Classification
+- [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=ByeSdsC9Km)] [[code](https://github.com/cogentlabs/apl)] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
+- [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=SyVuRiC5K7)] [[code](https://github.com/VDeamoV/TPN)] LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING
+
+- [ ] [CVPR 2019] CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning
+- [ ] [CVPR 2019] Dense Classification and Implanting for Few-Shot Learning
+- [ ] [CVPR 2019] All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification
+- [ ] [CVPR 2019 oral] LaSO: Label-Set Operations networks for multi-label few-shot learning
+
 # DataAugmentation
 ## Low-shot_Learning
 **By Using Generated images**
