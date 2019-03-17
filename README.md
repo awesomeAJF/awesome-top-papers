@@ -6,7 +6,7 @@ Intro
 
 
 
-[Nueral Language  Processing](#Nueral Language Processing)
+[Nueral Language Processing](#NueralLanguageProcessing)
 
 + [Word Embedding](#WordEmbedding)
 
@@ -42,9 +42,8 @@ Intro
 
 + [x] [JMLR 2003]] [[paper](<http://10.3.200.202/cache/12/03/www.jmlr.org/9633c9131df0a22183c7a64855a5d166/bengio03a.pdf>)] A Neural Probabilistic Language Model
 + [x] [[paper](<https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf>)] Distributed Representations of Words and Phrases and their Compositionality
-+ [x] [[paper]]((https://nlp.stanford.edu/pubs/glove.pdf)) GloVe: Global Vectors for Word Representation
-+ [x] [[paper](<https://arxiv.org/pdf/1706.03762.pdf>)] [[code](https://github.com/
-  tensorflow/tensor2tensor.)] Attention Is All You Need
++ [x] [[paper]((https://nlp.stanford.edu/pubs/glove.pdf))] GloVe: Global Vectors for Word Representation
++ [x] [[paper](<https://arxiv.org/pdf/1706.03762.pdf>)] [[code](https://github.com/tensorflow/tensor2tensor)] Attention Is All You Need
 + [x] [NAACL 2018] [[paper](<https://arxiv.org/pdf/1802.05365.pdf>)] Deep contextualized word representations
 + [x] [[paper](https://arxiv.org/pdf/1810.04805.pdf)] [[code](<https://github.com/google-research/bert>)] BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding
 
