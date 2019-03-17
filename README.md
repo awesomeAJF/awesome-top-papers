@@ -1,7 +1,15 @@
-# Intro
+Intro
+
 # Index
 [Data Augmentation](#DataAugmentation)
   - [Low-shot Learning](#Low-shot_Learning)
+
+
+
+[Nueral Language  Processing](#Nueral Language Processing)
+
++ [Word Embedding](#WordEmbedding)
+
 # Coming soon
 - [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] [[code](https://github.com/wyharveychen/CloserLookFewShot)] A Closer Look at Few-shot Classification
 - [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=ByeSdsC9Km)] [[code](https://github.com/cogentlabs/apl)] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
@@ -25,4 +33,20 @@
   - [x] [ICML 2017] [[paper](https://arxiv.org/pdf/1703.03400.pdf)] [[code](https://github.com/dragen1860/MAML-Pytorch)] Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
   - [x] [NIPS 2016] [[paper](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)] [[code](https://github.com/gitabcworld/MatchingNetworks)] Matching Networks for One Shot Learning
   - [x] [ICML 2015] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)] Siamese Neural Networks for One-Shot Image Recognition
+
+
+
+# NueralLanguageProcessing
+
+ ## Word Embedding
+
++ [x] [JMLR 2003]] [[paper](<http://10.3.200.202/cache/12/03/www.jmlr.org/9633c9131df0a22183c7a64855a5d166/bengio03a.pdf>)] A Neural Probabilistic Language Model
++ [x] [[paper](<https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf>)] Distributed Representations of Words and Phrases and their Compositionality
++ [x] [[paper]]((https://nlp.stanford.edu/pubs/glove.pdf)) GloVe: Global Vectors for Word Representation
++ [x] [[paper](<https://arxiv.org/pdf/1706.03762.pdf>)] [[code](https://github.com/
+  tensorflow/tensor2tensor.)] Attention Is All You Need
++ [x] [NAACL 2018] [[paper](<https://arxiv.org/pdf/1802.05365.pdf>)] Deep contextualized word representations
++ [x] [[paper](https://arxiv.org/pdf/1810.04805.pdf)] [[code](<https://github.com/google-research/bert>)] BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+
 
