@@ -3,9 +3,9 @@
 [Data Augmentation](#DataAugmentation)
   - [Low-shot Learning](#Low-shot_Learning)
 # Coming soon
-- [] [ICLR 2019] A Closer Look at Few-shot Classification
-- [] [ICLR 2019] LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING
-- [] [ICLR 2019] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
+- [ ] [ICLR 2019] A Closer Look at Few-shot Classification
+- [ ] [ICLR 2019] LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING
+- [ ] [ICLR 2019] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
 # DataAugmentation
 ## Low-shot_Learning
 **By Using Generated images**
