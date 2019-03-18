@@ -9,7 +9,6 @@ Intro
 + [Word Embedding](#WordEmbedding)
 
 # Coming soon
-- [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] [[code](https://github.com/wyharveychen/CloserLookFewShot)] A Closer Look at Few-shot Classification
 - [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=ByeSdsC9Km)] [[code](https://github.com/cogentlabs/apl)] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
 - [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=SyVuRiC5K7)] [[code](https://github.com/VDeamoV/TPN)] LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING
 
@@ -26,6 +25,8 @@ Intro
 
 # TransferLearning
 ## Low-shot_Learning
+**Survey**
+  - [x] [ICLR 2019] [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] [[code](https://github.com/wyharveychen/CloserLookFewShot)] A Closer Look at Few-shot Classification
 **By Using Generated images**
   - [x] [ICCV 2017] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](https://github.com/facebookresearch/low-shot-shrink-hallucinate)] Low-shot Visual Recognition by Shrinking and Hallucinating Features
   - [x] [CVPR 2018] [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Low-Shot_Learning_From_CVPR_2018_paper.pdf)] Low-Shot Learning from Imaginary Data
