@@ -4,8 +4,6 @@ Intro
 [Data Augmentation](#DataAugmentation)
   - [Low-shot Learning](#Low-shot_Learning)
 
-
-
 [Nueral Language Processing](#NueralLanguageProcessing)
 
 + [Word Embedding](#WordEmbedding)
@@ -33,8 +31,6 @@ Intro
   - [x] [ICML 2017] [[paper](https://arxiv.org/pdf/1703.03400.pdf)] [[code](https://github.com/dragen1860/MAML-Pytorch)] Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
   - [x] [NIPS 2016] [[paper](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)] [[code](https://github.com/gitabcworld/MatchingNetworks)] Matching Networks for One Shot Learning
   - [x] [ICML 2015] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)] Siamese Neural Networks for One-Shot Image Recognition
-
-
 
 # NueralLanguageProcessing
 
