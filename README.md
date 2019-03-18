@@ -22,7 +22,7 @@ Intro
 ## VAE
 - [x] [arXiv 2013] [[paper](https://arxiv.org/pdf/1312.6114.pdf)] [[code](https://github.com/bojone/vae)] Auto-Encoding Variational Bayes
 
-- [] [ICLR 2019] [[paper](https://arxiv.org/abs/1806.02199)] [[code](https://github.com/ratschlab/SOM-VAE)] SOM-VAE: Interpretable Discrete Representation Learning on Time Series.
+- [ ] [ICLR 2019] [[paper](https://arxiv.org/abs/1806.02199)] [[code](https://github.com/ratschlab/SOM-VAE)] SOM-VAE: Interpretable Discrete Representation Learning on Time Series.
 
 # TransferLearning
 ## Low-shot_Learning
