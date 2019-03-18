@@ -18,6 +18,12 @@ Intro
 - [ ] [CVPR 2019] All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification
 - [ ] [CVPR 2019 oral] LaSO: Label-Set Operations networks for multi-label few-shot learning
 
+# DeepLearning
+## VAE
+- [x] [arXiv 2013] [[paper](https://arxiv.org/pdf/1312.6114.pdf)] [[code](https://github.com/bojone/vae)] Auto-Encoding Variational Bayes
+
+- [] [ICLR 2019] [[paper](https://arxiv.org/abs/1806.02199)] [[code](https://github.com/ratschlab/SOM-VAE)] SOM-VAE: Interpretable Discrete Representation Learning on Time Series.
+
 # TransferLearning
 ## Low-shot_Learning
 **By Using Generated images**
