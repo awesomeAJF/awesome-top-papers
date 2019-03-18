@@ -1,7 +1,7 @@
 Intro
 
 # Index
-[Data Augmentation](#DataAugmentation)
+[TransferLearning](#TransferLearning)
   - [Low-shot Learning](#Low-shot_Learning)
 
 [Nueral Language Processing](#NueralLanguageProcessing)
@@ -18,7 +18,7 @@ Intro
 - [ ] [CVPR 2019] All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification
 - [ ] [CVPR 2019 oral] LaSO: Label-Set Operations networks for multi-label few-shot learning
 
-# DataAugmentation
+# TransferLearning
 ## Low-shot_Learning
 **By Using Generated images**
   - [x] [ICCV 2017] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](https://github.com/facebookresearch/low-shot-shrink-hallucinate)] Low-shot Visual Recognition by Shrinking and Hallucinating Features
