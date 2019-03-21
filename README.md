@@ -9,6 +9,7 @@ Intro
 [Nueral Language Processing](#NueralLanguageProcessing)
 
 + [Word Embedding](#WordEmbedding)
++ [Text summarization](#TextSummarization)
 
 # Coming soon
 - [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=HkxLXnAcFQ)] [[code](https://github.com/wyharveychen/CloserLookFewShot)] A Closer Look at Few-shot Classification
@@ -48,4 +49,8 @@ Intro
 + [x] [[paper](https://arxiv.org/pdf/1810.04805.pdf)] [[code](<https://github.com/google-research/bert>)] BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 
+
+## Text Summarization
+
++ [x] [[paper](https://arxiv.org/pdf/1902.09243.pdf)] Pretraining-Based Natural Language Generation for Text Summarization
 
