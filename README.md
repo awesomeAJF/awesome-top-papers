@@ -9,14 +9,6 @@ Intro
 + [Word Embedding](#WordEmbedding)
 + [Text summarization](#TextSummarization)
 
-# Coming soon
-- [ ] [ICLR 2019] [[paper](https://openreview.net/pdf?id=ByeSdsC9Km)] [[code](https://github.com/cogentlabs/apl)] Adaptive Posterior Learning: few-shot learning with a surprise-based memory module
-
-- [ ] [CVPR 2019] CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning
-- [ ] [CVPR 2019] Dense Classification and Implanting for Few-Shot Learning
-- [ ] [CVPR 2019] All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification
-- [ ] [CVPR 2019 oral] LaSO: Label-Set Operations networks for multi-label few-shot learning
-
 # DeepLearning
 ## VAE
 - [x] [arXiv 2013] [[paper](https://arxiv.org/pdf/1312.6114.pdf)] [[code](https://github.com/bojone/vae)] Auto-Encoding Variational Bayes
