@@ -1,5 +1,3 @@
-Intro
-
 # Index
 [TransferLearning](#TransferLearning)
   - [Low-shot Learning](#Low-shot_Learning)
