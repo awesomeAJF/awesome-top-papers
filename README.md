@@ -6,6 +6,7 @@
 
 + [Word Embedding](#WordEmbedding)
 + [Text summarization](#TextSummarization)
++ [Reading Comprehension](#ReadingComprehension)
 
 # DeepLearning
 ## VAE
@@ -47,4 +48,11 @@
 ## Text Summarization
 
 + [x] [arXiv 2018] [[paper](https://arxiv.org/pdf/1902.09243.pdf)] Pretraining-Based Natural Language Generation for Text Summarization
++ [x] [arXiv 2017] [[paper](http://arxiv.org/abs/1704.04368)] Get To The Point: Summarization with Pointer-Generator Networks
+
+
+
+## Reading Comprehension
+
++ [x] [arXiv 2018] [[paper](http://arxiv.org/abs/1811.11934)] [[code](<https://github.com/abisee/pointer-generator>)]Multi-granularity hierarchical attention fusion networks for reading comprehension and question answering
 
