@@ -24,6 +24,7 @@ Intro
   - [x] [ICCV 2017] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](https://github.com/facebookresearch/low-shot-shrink-hallucinate)] Low-shot Visual Recognition by Shrinking and Hallucinating Features
   - [x] [CVPR 2018] [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Low-Shot_Learning_From_CVPR_2018_paper.pdf)] Low-Shot Learning from Imaginary Data
   - [x] [NIPS 2018] [[paper](https://papers.nips.cc/paper/7376-low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks.pdf)] Low-shot Learning via Covariance-Preserving Adversarial Augmentation Networks
+  - [x] [CVPR 2019 oral] [[paper](https://arxiv.org/pdf/1902.09811.pdf)] LaSO-Label-Set Operations networks for multi-label few-shot learning
 
 **Special Architecture or Method**
   - [x] [CVPR 2018] [[paper](http://10.3.200.202/cache/2/03/openaccess.thecvf.com/d0a8b18c2009916407c2becbadc35bc7/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)] [[code](https://github.com/floodsung/LearningToCompare_FSL)] Learning to Compare-Relation Network for Few-Shot Learning
