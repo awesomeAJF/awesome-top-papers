@@ -32,6 +32,8 @@
   - [x] [NIPS 2016] [[paper](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)] [[code](https://github.com/gitabcworld/MatchingNetworks)] Matching Networks for One Shot Learning
   - [x] [ICML 2015] [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hariharan_Low-Shot_Visual_Recognition_ICCV_2017_paper.pdf)] [[code](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)] Siamese Neural Networks for One-Shot Image Recognition
   - [x] [ICLR 2019] [[paper](https://openreview.net/pdf?id=SyVuRiC5K7)] [[code](https://github.com/VDeamoV/TPN)] LEARNING TO PROPAGATE LABELS: TRANSDUCTIVE PROPAGATION NETWORK FOR FEW-SHOT LEARNING
+  - [x] [CVPR 2017] [[paper](https://arxiv.org/pdf/1710.06177.pdf)] Learning to Learn Image Classifiers with Visual Analogy
+  - [x] [CVPR 2019] [[paper](https://arxiv.org/pdf/1903.05050.pdf)] Dense Classification and Implanting for Few-Shot Learning
 
 # NueralLanguageProcessing
 
